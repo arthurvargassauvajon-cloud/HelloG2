@@ -1,8 +1,0 @@
-Hola GitHub!
-Qué tal?
-Tercera linia
-<<<<<<< HEAD
-bla bla bla
-=======
-problemes
->>>>>>> f8c2196490a74f8bfab81a54d0d6f92f97e310ec

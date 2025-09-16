@@ -1,4 +1,5 @@
 Hola GitHub!
 Qué tal?
 Tercera linia
+<<<<<<< HEAD
 bla bla bla
